@@ -1,0 +1,4 @@
+{
+  "name": "EasyInteraction.Sample",
+  "references": ["EasyInteraction.Runtime", "Unity.InputSystem"]
+}

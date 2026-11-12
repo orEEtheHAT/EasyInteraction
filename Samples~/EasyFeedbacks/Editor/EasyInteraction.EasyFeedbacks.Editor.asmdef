@@ -1,0 +1,26 @@
+{
+  "name": "EasyInteraction.EasyFeedbacks.Editor",
+  "references": [
+    "EasyInteraction.EasyFeedbacks",
+    "EasyFeedbacks.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.oreethehat.easy-feedbacks",
+      "expression": "1.8.0",
+      "define": "EASY_WAVE1_FEEDBACKS"
+    },
+    {
+      "name": "com.oreethehat.easy-interaction",
+      "expression": "0.3.0",
+      "define": "EASY_WAVE1_INTERACTION"
+    }
+  ],
+  "defineConstraints": [
+    "EASY_WAVE1_FEEDBACKS",
+    "EASY_WAVE1_INTERACTION"
+  ]
+}

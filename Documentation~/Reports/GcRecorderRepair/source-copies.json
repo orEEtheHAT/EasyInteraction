@@ -1,0 +1,14 @@
+[
+  {
+    "same": true,
+    "sha256": "3893AC42AE7B78A32A601706604E658753E35B8790E4225DD0427A479DA5BF06",
+    "import": "Assets/PackageTests/EasyInteraction/IntegrationTests/PresentationTests.cs",
+    "source": "Packages/com.oreethehat.easy-interaction/Tools~/IntegrationTests/PresentationTests.cs"
+  },
+  {
+    "same": true,
+    "sha256": "73855076D93677D2C3B14A3CFA8FE511A34555A8431965C12FA80B0AECC518F4",
+    "import": "Assets/PackageTests/EasyInteraction/Performance/InteractionBenchmark.cs",
+    "source": "Packages/com.oreethehat.easy-interaction/Tools~/Performance/InteractionBenchmark.cs"
+  }
+]

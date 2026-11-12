@@ -1,0 +1,80 @@
+[
+  {
+    "sample": "EasyMovement",
+    "file": "EasyInteraction.EasyMovement.asmdef",
+    "sha256": "BDB92188B9DECB2DAF365BECA35CD2B364EAF0CAA2DF63E60BC1709E69B3D289",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyMovement",
+    "file": "EasyMovementInteractionLock.cs",
+    "sha256": "D9AD9FFF3336B8229B7479D39B7D41927B8A4FDF554F96017CDBC5FD844BD1C4",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyMovement",
+    "file": "EasyMovementInteractionMotor.cs",
+    "sha256": "331C188961509F9F8DC6B9CE281C993B31614CE262552308DC7B09F82D641D80",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyBuilding",
+    "file": "BuildingAction.cs",
+    "sha256": "C58CCBBD0C49AF1E741DAB56061C6B1B989B34ED22CF0DBD733056B433285DA4",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyBuilding",
+    "file": "BuildingInteractionContext.cs",
+    "sha256": "48A848E4CA14FBBF8D7DCED6AF678177EC9D03DC24C7480C36BC63D7D911EDDE",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyBuilding",
+    "file": "EasyInteraction.EasyBuilding.asmdef",
+    "sha256": "2E09BC6715F5B2BAF08B8A7A67055C20DC11380D5F02E24EE8311D147CDDB8AA",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyCombat",
+    "file": "CombatInteractionGuard.cs",
+    "sha256": "8DBFAA4B5F4F43C39F1A8FF08C2D2A13F2BB82AD53DD1EA9B54718FF4D9476A3",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyCombat",
+    "file": "EasyInteraction.EasyCombat.asmdef",
+    "sha256": "074A8785412472E2770E26613D9C5F91C6AA9FDA9FDCCB26F2FFF72035ABC407",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyCombat",
+    "file": "HealthCondition.cs",
+    "sha256": "C4E8EDC80BAF4628B12E1B9D5512083F0CD0633EFD68A55E046B379A3252D8A3",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyFeedbacks",
+    "file": "EasyInteraction.EasyFeedbacks.asmdef",
+    "sha256": "AA73A3AD19D7294746E64C772FEFACF1E5497AA114D2C06CE189B3B8211EECC8",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyFeedbacks",
+    "file": "InteractionFeedbacks.cs",
+    "sha256": "AD7B51E74BF21410C007C2369B14BE844B44BE6259AE76B3BDC8C9EB6C333E35",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyFeedbacks",
+    "file": "Editor\\EasyInteraction.EasyFeedbacks.Editor.asmdef",
+    "sha256": "2A0BA26F42525783123EEA58604190409697597A8CEB0143FC18EAFDB5748480",
+    "copyMatches": true
+  },
+  {
+    "sample": "EasyFeedbacks",
+    "file": "Editor\\InteractionFeedbacksEditor.cs",
+    "sha256": "FB147D0A36765F7C762FB8E5B4AB5E6A5640FA18639BE507AAE15B7AD5FA6CC3",
+    "copyMatches": true
+  }
+]

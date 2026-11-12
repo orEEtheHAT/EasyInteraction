@@ -1,0 +1,11 @@
+{
+  "output": null,
+  "diagnostics": [],
+  "success": true,
+  "result": {
+    "scene": "Assets/Samples/EasyInteraction/0.2.0/Interaction Gallery/InteractionGallery.unity",
+    "missingScripts": 0,
+    "targets": 7,
+    "actors": 2
+  }
+}

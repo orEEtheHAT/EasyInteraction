@@ -1,0 +1,10 @@
+{
+  "output": null,
+  "diagnostics": [],
+  "success": true,
+  "result": {
+    "ready": true,
+    "contract": "EasyInteraction.IInteractionInputSource",
+    "dirty": false
+  }
+}

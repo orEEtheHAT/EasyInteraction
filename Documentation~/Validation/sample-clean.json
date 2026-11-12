@@ -1,0 +1,21 @@
+{
+  "output": null,
+  "diagnostics": [],
+  "success": true,
+  "result": {
+    "Raycast locked reason": "Door is locked. Unlock it on the Door Action component.",
+    "Raycast locked rejected": true,
+    "Raycast door opens": true,
+    "Raycast crate grabbed": true,
+    "Raycast crate released": true,
+    "Raycast wall blocks": true,
+    "Raycast player interruption": true,
+    "Focus locked reason": "Door is locked. Unlock it on the Door Action component.",
+    "Focus locked rejected": true,
+    "Focus door opens": true,
+    "Focus crate grabbed": true,
+    "Focus crate released": true,
+    "Focus wall blocks": true,
+    "Focus player interruption": true
+  }
+}

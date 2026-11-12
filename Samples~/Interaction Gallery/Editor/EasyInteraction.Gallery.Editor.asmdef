@@ -1,0 +1,1 @@
+{"name":"EasyInteraction.Gallery.Editor","references":["EasyInteraction.Runtime","EasyInteraction.Editor","EasyInteraction.UI","EasyInteraction.Gallery"],"includePlatforms":["Editor"]}

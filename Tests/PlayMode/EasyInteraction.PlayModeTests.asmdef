@@ -1,0 +1,6 @@
+{
+  "name": "EasyInteraction.PlayModeTests",
+  "references": ["EasyInteraction.Runtime", "Unity.InputSystem"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

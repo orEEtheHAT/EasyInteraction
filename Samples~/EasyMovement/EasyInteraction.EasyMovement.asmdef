@@ -1,0 +1,27 @@
+{
+  "name": "EasyInteraction.EasyMovement",
+  "references": [
+    "EasyInteraction.Runtime",
+    "EasyMovement.FirstPerson",
+    "ECM2",
+    "Unity.Cinemachine",
+    "EasyFootsteps.Runtime",
+    "Unity.InputSystem"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.oreethehat.easy-interaction",
+      "expression": "0.3.0",
+      "define": "EASY_WAVE1_INTERACTION"
+    },
+    {
+      "name": "com.oreethehat.easy-movement",
+      "expression": "5.1.0",
+      "define": "EASY_WAVE1_MOVEMENT"
+    }
+  ],
+  "defineConstraints": [
+    "EASY_WAVE1_INTERACTION",
+    "EASY_WAVE1_MOVEMENT"
+  ]
+}

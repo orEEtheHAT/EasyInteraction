@@ -1,0 +1,23 @@
+{
+  "name": "EasyInteraction.EasyCombat",
+  "references": [
+    "EasyInteraction.Runtime",
+    "EasyCombat.Runtime"
+  ],
+  "versionDefines": [
+    {
+      "name": "com.oreethehat.easy-combat",
+      "expression": "0.7.0",
+      "define": "EASY_WAVE1_COMBAT"
+    },
+    {
+      "name": "com.oreethehat.easy-interaction",
+      "expression": "0.3.0",
+      "define": "EASY_WAVE1_INTERACTION"
+    }
+  ],
+  "defineConstraints": [
+    "EASY_WAVE1_COMBAT",
+    "EASY_WAVE1_INTERACTION"
+  ]
+}

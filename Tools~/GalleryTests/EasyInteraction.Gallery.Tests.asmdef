@@ -1,0 +1,1 @@
+{"name":"EasyInteraction.Gallery.Tests","references":["EasyInteraction.Runtime","EasyInteraction.Gallery","EasyInteraction.UI","Unity.InputSystem"],"optionalUnityReferences":["TestAssemblies"],"autoReferenced":false}

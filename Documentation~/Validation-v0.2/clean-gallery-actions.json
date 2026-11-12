@@ -1,0 +1,12 @@
+{
+  "output": null,
+  "diagnostics": [],
+  "success": true,
+  "result": {
+    "door": true,
+    "grab": true,
+    "insert": true,
+    "remove": true,
+    "animationStarted": true
+  }
+}

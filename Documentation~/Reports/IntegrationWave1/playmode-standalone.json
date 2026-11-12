@@ -1,0 +1,559 @@
+{
+  "status": "completed",
+  "duration": 5.28,
+  "summary": {
+    "total": 78,
+    "passed": 78,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "EasyInteraction.Tests.AuthorityTests.AuthorityUsesCurrentWorldVisibilityAndPermissions",
+      "Status": "Passed",
+      "Duration": 0.0184796,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.AuthorityTests.ConfirmationRunsOnAuthorityAndDisconnectCancels",
+      "Status": "Passed",
+      "Duration": 0.0047712,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.AuthorityTests.InvalidAnalogValuesAndRateExcessAreRejected",
+      "Status": "Passed",
+      "Duration": 0.0007339,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.AuthorityTests.OldOperationCannotCancelNewExecution",
+      "Status": "Passed",
+      "Duration": 0.0006614,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.AuthorityTests.ReleaseBeforeAcknowledgementUsesTheStartSequence",
+      "Status": "Passed",
+      "Duration": 0.0006611,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.AuthorityTests.RetryAndReorderedRequestsCannotExecuteTwice",
+      "Status": "Passed",
+      "Duration": 0.0005319,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.AuthorityTests.ReusingSequenceWithDifferentPayloadIsRejected",
+      "Status": "Passed",
+      "Duration": 0.0002782,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.AccessibilityToggleKeepsConfirmationTimeWithoutRequiringHolding",
+      "Status": "Passed",
+      "Duration": 0.0011296,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.AnimationCommitCanStartASustainedGrabWithoutCompletingIt",
+      "Status": "Passed",
+      "Duration": 0.0031812,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.AnimationTicketCannotFinishANewerRun",
+      "Status": "Passed",
+      "Duration": 0.0005696,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.AnyConditionAndCycleDiagnosticsAreExplicit",
+      "Status": "Passed",
+      "Duration": 0.0016472,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.CancellationFromStageEntryPreventsLaterEffects",
+      "Status": "Passed",
+      "Duration": 0.0013677,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.CompletionCannotSkipInputConfirmation",
+      "Status": "Passed",
+      "Duration": 0.0006265,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.ConditionsCanDifferBetweenStartAndContinuation",
+      "Status": "Passed",
+      "Duration": 0.0019918,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.ConfirmationCanBeReleasedOrLostBeforeAnyEffect",
+      "Status": "Passed",
+      "Duration": 0.0010095,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.ContactUsesItsOwnSmallRadius",
+      "Status": "Passed",
+      "Duration": 0.002118,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.CooperativeWorkHasOneWorldResultAndSupportsParticipantLoss",
+      "Status": "Passed",
+      "Duration": 0.0042946,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.CostsReserveCommitRefundAndDoNotCollideBetweenActorTickets",
+      "Status": "Passed",
+      "Duration": 0.0033851,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.CursorRayUsesAssignedCameraAndPointer",
+      "Status": "Passed",
+      "Duration": 0.0009343,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.DuplicateWorldIdsNeverResolveToAnArbitraryObject",
+      "Status": "Passed",
+      "Duration": 0.0018322,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.ExplicitPriorityAndCyclingAreStableAcrossRefreshes",
+      "Status": "Passed",
+      "Duration": 0.001539,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.ExplicitTargetAndNpcExecutionKeepRangeAndWallChecks",
+      "Status": "Passed",
+      "Duration": 0.000624,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.FocusUsesPartActionsInsteadOfAnUnfilteredDuplicateCentre",
+      "Status": "Passed",
+      "Duration": 0.0013983,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.IndependentChannelsAllowHoldingWhileOpeningADoor",
+      "Status": "Passed",
+      "Duration": 0.001791,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.InvalidReservationCancelsBeforeTimedEffect",
+      "Status": "Passed",
+      "Duration": 0.0005481,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.MechanicalValueClampsAndStateRestores",
+      "Status": "Passed",
+      "Duration": 0.002797,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.MultipointFocusFindsTheVisiblePartOfAnOccludedObject",
+      "Status": "Passed",
+      "Duration": 0.0008653,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.NearestIncludesTargetsBehindTheActor",
+      "Status": "Passed",
+      "Duration": 0.0004367,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.ObjectPartsExposeOnlyTheirAssignedActions",
+      "Status": "Passed",
+      "Duration": 0.0006137,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.PartialReservationFailureRollsBackWithoutExecuting",
+      "Status": "Passed",
+      "Duration": 0.0006156,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.PausedAnimationCompletionWaitsForResume",
+      "Status": "Passed",
+      "Duration": 0.0009208,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.PresenterUsesLocalizedReasonsAndExposesRunningProgress",
+      "Status": "Passed",
+      "Duration": 0.0039118,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.QueueStartsTheWaitingActorAfterRelease",
+      "Status": "Passed",
+      "Duration": 0.0059139,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.RaycastCanUseTheReachableSurfaceOfALargeObject",
+      "Status": "Passed",
+      "Duration": 0.0003846,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.ReachAndVisibilityMustBeSatisfiedAtTheSamePoint",
+      "Status": "Passed",
+      "Duration": 0.0005661,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.ReentrantCancellationPreservesCSharpAndUnityEventOrder",
+      "Status": "Passed",
+      "Duration": 0.0013208,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.SelectionAndWarmedInstantExecutionDoNotAllocate",
+      "Status": "Passed",
+      "Duration": 0.002297,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.SequencePreservesPauseAndRequiresTheMatchingSignal",
+      "Status": "Passed",
+      "Duration": 0.0011567,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.SocketDisablePreservesItemAndRestoresPhysics",
+      "Status": "Passed",
+      "Duration": 0.0024742,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.SocketInsertionIsCompleteBeforeItsCompletionEvent",
+      "Status": "Passed",
+      "Duration": 0.0016544,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.SphereCastAssistsSmallTargetsOutsideTheThinRay",
+      "Status": "Passed",
+      "Duration": 0.0008742,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.TargetReservationBlocksConflictingActionsAcrossActors",
+      "Status": "Passed",
+      "Duration": 0.0006294,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.ThrowingObserverDoesNotStopOtherObserversOrCleanup",
+      "Status": "Passed",
+      "Duration": 0.0131172,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.TimedActionPausesResumesAndCommitsOnce",
+      "Status": "Passed",
+      "Duration": 0.0007274,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.TimedDoorRechecksLockAndPreservesItsOriginalIntent",
+      "Status": "Passed",
+      "Duration": 0.0005932,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.TwoHandsAndTransferRestoreOnlyAfterLastRelease",
+      "Status": "Passed",
+      "Duration": 0.0008928,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.WorldStateHasStableIdsAndValidatesBeforeChangingObjects",
+      "Status": "Passed",
+      "Duration": 0.0017708,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.CancellingFromStartedCallbackCannotLeaveOwnershipBehind",
+      "Status": "Passed",
+      "Duration": 0.0020898,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DefaultInputExecutesEAndCancelsQ",
+      "Status": "Passed",
+      "Duration": 0.0622682,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DestroyingHeldObjectClearsActorAndNotifiesOnce",
+      "Status": "Passed",
+      "Duration": 0.0005707,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DisablingParticipantRestoresGrab(\"actor\")",
+      "Status": "Passed",
+      "Duration": 0.0009881,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DisablingParticipantRestoresGrab(\"target\")",
+      "Status": "Passed",
+      "Duration": 0.000643,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DisablingParticipantRestoresGrab(\"action\")",
+      "Status": "Passed",
+      "Duration": 0.0006876,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DisablingParticipantRestoresGrab(\"input\")",
+      "Status": "Passed",
+      "Duration": 0.0006098,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DoorExecutesAndWorldStateSurvivesLossOfFocus(Raycast)",
+      "Status": "Passed",
+      "Duration": 0.0004707,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DoorExecutesAndWorldStateSurvivesLossOfFocus(Focus)",
+      "Status": "Passed",
+      "Duration": 0.0001871,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.FocusFindsVisibleRunnerUpWhenBestIsOccluded",
+      "Status": "Passed",
+      "Duration": 0.00044,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.FocusHysteresisResistsJitterButAllowsDeliberateSwitch",
+      "Status": "Passed",
+      "Duration": 0.0022743,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.FocusIgnoresOutOfRangeBehindAndOutsideCone",
+      "Status": "Passed",
+      "Duration": 0.0004409,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.FocusOverflowDoesNotDropBestCandidate",
+      "Status": "Passed",
+      "Duration": 0.0050264,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.GrabRejectsMassRangeAndKinematicBodyWithReasons",
+      "Status": "Passed",
+      "Duration": 0.0008882,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.GrabReleaseRestoresExactlyTheSettingsItChanges(Raycast)",
+      "Status": "Passed",
+      "Duration": 0.0007263,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.GrabReleaseRestoresExactlyTheSettingsItChanges(Focus)",
+      "Status": "Passed",
+      "Duration": 0.000232,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.HoldConvergesAtDifferentPhysicsSteps",
+      "Status": "Passed",
+      "Duration": 3.6161072,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.MovingPlayerTooFarReleasesInsteadOfTeleportingBody",
+      "Status": "Passed",
+      "Duration": 0.0399138,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.MultipleActionsReasonsAndOrderedEventsArePublic",
+      "Status": "Passed",
+      "Duration": 0.0017235,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.PhysicalHoldCollidesWithWallAndRestoresAfterRelease",
+      "Status": "Passed",
+      "Duration": 1.398416,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.RayBufferOverflowStillIgnoresAllPlayerColliders",
+      "Status": "Passed",
+      "Duration": 0.0023293,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.TwoPlayersCannotOwnOneGrab",
+      "Status": "Passed",
+      "Duration": 0.0006133,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.WallImmediatelyClearsTargetAndRejectsStaleAction(Raycast)",
+      "Status": "Passed",
+      "Duration": 0.0007103,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.WallImmediatelyClearsTargetAndRejectsStaleAction(Focus)",
+      "Status": "Passed",
+      "Duration": 0.0003306,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.Integrations.PresentationTests.ActiveAdapterWinsAndDisabledSourcesAreNeverRead",
+      "Status": "Passed",
+      "Duration": 0.0027358,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.Integrations.PresentationTests.ExplicitSourceWinsAndUnsubscribesOnReplaceDisableAndDestroy",
+      "Status": "Passed",
+      "Duration": 0.0007989,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.Integrations.PresentationTests.LegacyPromptConstructorRemainsAvailable",
+      "Status": "Passed",
+      "Duration": 0.000412,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.Integrations.PresentationTests.PresentationChangesRefreshTextAndIconWithoutLegacyInput",
+      "Status": "Passed",
+      "Duration": 0.0030773,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.Integrations.PresentationTests.UiAnalogRoutesToTheOperationWithoutLegacyInput",
+      "Status": "Passed",
+      "Duration": 0.0011041,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.Integrations.PresentationTests.UiReleaseUsesTheActiveSourcesHoldToggleSetting",
+      "Status": "Passed",
+      "Duration": 0.0014351,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.Integrations.PresentationTests.WarmPresenterSourceResolutionDoesNotAllocate",
+      "Status": "Passed",
+      "Duration": 0.0012676,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

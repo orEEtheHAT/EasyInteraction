@@ -1,0 +1,5 @@
+{
+  "name": "EasyInteraction.Editor",
+  "references": ["EasyInteraction.Runtime"],
+  "includePlatforms": ["Editor"]
+}

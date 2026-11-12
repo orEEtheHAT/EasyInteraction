@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "duration": 0.17,
+  "summary": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "EasyInteraction.Tests.ExpandedInteractionTests.SelectionAndWarmedInstantExecutionDoNotAllocate",
+      "Status": "Passed",
+      "Duration": 0.0574637,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

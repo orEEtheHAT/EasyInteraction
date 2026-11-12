@@ -1,0 +1,75 @@
+{
+  "name": "com.oreethehat.easy-interaction",
+  "displayName": "EasyInteraction",
+  "version": "0.3.0",
+  "unity": "6000.3",
+  "description": "Composable interaction selection, actions, physical handling, cooperation and optional gameplay, UI, network and XR adapters for Unity 6.3.",
+  "author": {
+    "name": "orEEtheHAT"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.20.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Door and Crate",
+      "description": "Minimal door and physical crate example. Requires EasyInteraction 0.3.0+. No prerequisite sample imports.",
+      "path": "Samples~/Door and Crate"
+    },
+    {
+      "displayName": "Interaction Gallery",
+      "description": "Core examples, reusable list/radial HUD, animation and prefabs. Requires EasyInteraction 0.3.0+, uGUI 2.0.0+. No prerequisite sample imports.",
+      "path": "Samples~/Interaction Gallery"
+    },
+    {
+      "displayName": "EasyResources",
+      "description": "Pickup, atomic transfer and progressive costs. Requires EasyInteraction 0.3.0+, EasyResources 0.3.0+. No prerequisite sample imports.",
+      "path": "Samples~/EasyResources"
+    },
+    {
+      "displayName": "EasyBuilding",
+      "description": "Placed-building actions and selection through the shared actor session. Requires EasyBuilding 0.3.0+, EasyInteraction 0.3.0+. No prerequisite sample imports.",
+      "path": "Samples~/EasyBuilding"
+    },
+    {
+      "displayName": "EasyCombat",
+      "description": "Health conditions, interruption and restore-aware actor state. Requires EasyCombat 0.7.0+, EasyInteraction 0.3.0+. No prerequisite sample imports.",
+      "path": "Samples~/EasyCombat"
+    },
+    {
+      "displayName": "EasyFeedbacks",
+      "description": "Action feedback events and loops with an optional player context. Requires EasyFeedbacks 1.8.0+, EasyInteraction 0.3.0+. No prerequisite sample imports.",
+      "path": "Samples~/EasyFeedbacks"
+    },
+    {
+      "displayName": "EasyMovement",
+      "description": "FPS approach and independently owned manual-input blocks. Requires EasyInteraction 0.3.0+, EasyMovement 5.1.0+, ECM2 (separate installation; tested with 1.4.3). No prerequisite sample imports.",
+      "path": "Samples~/EasyMovement"
+    },
+    {
+      "displayName": "Navigation",
+      "description": "NPC approach through NavMeshAgent. Requires EasyInteraction 0.3.0+, AI module 1.0.0, a baked NavMesh. No prerequisite sample imports.",
+      "path": "Samples~/Navigation"
+    },
+    {
+      "displayName": "Localization",
+      "description": "Unity Localization string-table adapter; EasyLocalization is not required. Requires EasyInteraction 0.3.0+, Unity Localization 1.5.13+. No prerequisite sample imports.",
+      "path": "Samples~/Localization"
+    },
+    {
+      "displayName": "Netcode",
+      "description": "Server-authoritative requests and world-state replication. Requires EasyInteraction 0.3.0+, Netcode for GameObjects 2.7.0+, a configured transport. No prerequisite sample imports.",
+      "path": "Samples~/Netcode"
+    },
+    {
+      "displayName": "XR",
+      "description": "XR interactor adapter with two-hand support. Requires EasyInteraction 0.3.0+, XR Interaction Toolkit 3.2.0+ (3.x), a configured XR rig. No prerequisite sample imports.",
+      "path": "Samples~/XR"
+    }
+  ]
+}

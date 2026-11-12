@@ -1,0 +1,4 @@
+{
+  "name": "EasyInteraction.Verification",
+  "references": ["EasyInteraction.Runtime"]
+}

@@ -1,0 +1,181 @@
+{
+  "status": "completed",
+  "duration": 5.27,
+  "summary": {
+    "total": 24,
+    "passed": 24,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.CancellingFromStartedCallbackCannotLeaveOwnershipBehind",
+      "Status": "Passed",
+      "Duration": 0.0237875,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DefaultInputExecutesEAndCancelsQ",
+      "Status": "Passed",
+      "Duration": 0.1079405,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DestroyingHeldObjectClearsActorAndNotifiesOnce",
+      "Status": "Passed",
+      "Duration": 0.0046932,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DisablingParticipantRestoresGrab(\"actor\")",
+      "Status": "Passed",
+      "Duration": 0.0009051,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DisablingParticipantRestoresGrab(\"target\")",
+      "Status": "Passed",
+      "Duration": 0.000389,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DisablingParticipantRestoresGrab(\"action\")",
+      "Status": "Passed",
+      "Duration": 0.0003553,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DisablingParticipantRestoresGrab(\"input\")",
+      "Status": "Passed",
+      "Duration": 0.0004496,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DoorExecutesAndWorldStateSurvivesLossOfFocus(Raycast)",
+      "Status": "Passed",
+      "Duration": 0.0020559,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.DoorExecutesAndWorldStateSurvivesLossOfFocus(Focus)",
+      "Status": "Passed",
+      "Duration": 0.002486,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.FocusFindsVisibleRunnerUpWhenBestIsOccluded",
+      "Status": "Passed",
+      "Duration": 0.0043382,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.FocusHysteresisResistsJitterButAllowsDeliberateSwitch",
+      "Status": "Passed",
+      "Duration": 0.0009817,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.FocusIgnoresOutOfRangeBehindAndOutsideCone",
+      "Status": "Passed",
+      "Duration": 0.0005837,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.FocusOverflowDoesNotDropBestCandidate",
+      "Status": "Passed",
+      "Duration": 0.0082357,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.GrabRejectsMassRangeAndKinematicBodyWithReasons",
+      "Status": "Passed",
+      "Duration": 0.0015841,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.GrabReleaseRestoresExactlyTheSettingsItChanges(Raycast)",
+      "Status": "Passed",
+      "Duration": 0.0027745,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.GrabReleaseRestoresExactlyTheSettingsItChanges(Focus)",
+      "Status": "Passed",
+      "Duration": 0.0005399,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.HoldConvergesAtDifferentPhysicsSteps",
+      "Status": "Passed",
+      "Duration": 3.624341,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.MovingPlayerTooFarReleasesInsteadOfTeleportingBody",
+      "Status": "Passed",
+      "Duration": 0.0396425,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.MultipleActionsReasonsAndOrderedEventsArePublic",
+      "Status": "Passed",
+      "Duration": 0.0024457,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.PhysicalHoldCollidesWithWallAndRestoresAfterRelease",
+      "Status": "Passed",
+      "Duration": 1.3976378,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.RayBufferOverflowStillIgnoresAllPlayerColliders",
+      "Status": "Passed",
+      "Duration": 0.0027491,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.TwoPlayersCannotOwnOneGrab",
+      "Status": "Passed",
+      "Duration": 0.0005496,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.WallImmediatelyClearsTargetAndRejectsStaleAction(Raycast)",
+      "Status": "Passed",
+      "Duration": 0.000787,
+      "Message": null,
+      "StackTrace": null
+    },
+    {
+      "FullName": "EasyInteraction.Tests.InteractionTests.WallImmediatelyClearsTargetAndRejectsStaleAction(Focus)",
+      "Status": "Passed",
+      "Duration": 0.0003197,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "passed": true,
+    "server": false,
+    "connected": true,
+    "initialSnapshot": true,
+    "doorReplicated": true,
+    "fastRelease": true,
+    "outOfRangeRejected": true,
+    "held": true,
+    "mechanicalReplicated": true,
+    "disconnectedCleanup": false,
+    "failure": "",
+    "unity": "6000.3.22f1"
+}

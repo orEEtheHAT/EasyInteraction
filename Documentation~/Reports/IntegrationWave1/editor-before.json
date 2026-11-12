@@ -1,0 +1,10 @@
+{
+  "output": null,
+  "diagnostics": [],
+  "success": true,
+  "result": {
+    "playing": false,
+    "dirty": false,
+    "scene": "Assets/PackageTests/EasySuite/EasySuiteLab.unity"
+  }
+}

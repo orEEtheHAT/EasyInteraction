@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "result": "Succeeded",
+  "platform": "StandaloneWindows64",
+  "outputPath": "C:/Users/LeshaPC/Games Factory/Temp/EasyInteraction/EasyInteractionClean/Builds/DoorAndCrate/DoorAndCrate.exe",
+  "totalSizeBytes": 154254840,
+  "buildTimeMs": 42585,
+  "totalWarnings": 0,
+  "totalErrors": 0,
+  "errors": [],
+  "warnings": []
+}

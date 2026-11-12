@@ -1,0 +1,12 @@
+{
+  "output": null,
+  "diagnostics": [],
+  "success": true,
+  "result": {
+    "scene": "Assets/Scenes/SampleScene.unity",
+    "playing": false,
+    "compiling": false,
+    "updating": false,
+    "dirty": false
+  }
+}

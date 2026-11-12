@@ -1,0 +1,15 @@
+{
+  "output": null,
+  "diagnostics": [],
+  "success": true,
+  "result": {
+    "passed": true,
+    "scope": "Editor recorder and JSON smoke; not a player benchmark",
+    "calibration": 1,
+    "emptyControl": 0,
+    "emptyEvents": 0,
+    "allocatedEvents": 1,
+    "unavailableEvents": -1,
+    "json": "{\"schemaVersion\":2,\"unity\":\"\",\"platform\":\"\",\"cpu\":\"\",\"gpu\":\"\",\"os\":\"\",\"backend\":\"\",\"dateUtc\":\"\",\"development\":false,\"passed\":false,\"cpuCount\":0,\"systemMemoryMB\":0,\"allocationMeter\":\"Main-thread GC.Alloc ProfilerRecorder (event count)\",\"allocationMeasurementAvailable\":true,\"allocationCalibrationEvents\":1,\"allocationEmptyControlEvents\":0,\"allocationMeasurementUnavailableReason\":\"\",\"selection\":[],\"hold\":[],\"api\":[{\"operation\":\"smoke: empty scope\",\"calls\":1,\"failures\":0,\"meanUs\":0.0,\"p95Us\":0.0,\"allocationMeasurementAvailable\":true,\"allocationEvents\":0,\"allocatedBytes\":0},{\"operation\":\"smoke: 512-byte allocation\",\"calls\":1,\"failures\":0,\"meanUs\":0.0,\"p95Us\":0.0,\"allocationMeasurementAvailable\":true,\"allocationEvents\":1,\"allocatedBytes\":-1},{\"operation\":\"smoke: unavailable scope\",\"calls\":1,\"failures\":0,\"meanUs\":0.0,\"p95Us\":0.0,\"allocationMeasurementAvailable\":false,\"allocationEvents\":-1,\"allocatedBytes\":-1}]}"
+  }
+}

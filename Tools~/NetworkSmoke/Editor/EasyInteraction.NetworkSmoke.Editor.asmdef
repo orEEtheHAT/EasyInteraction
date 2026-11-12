@@ -1,0 +1,1 @@
+{"name":"EasyInteraction.NetworkSmoke.Editor","references":["EasyInteraction.Runtime","EasyInteraction.Netcode","EasyInteraction.NetworkSmoke","Unity.Netcode.Runtime"],"includePlatforms":["Editor"]}

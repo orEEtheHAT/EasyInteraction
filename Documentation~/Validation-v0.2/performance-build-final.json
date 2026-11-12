@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "result": "Succeeded",
+  "platform": "StandaloneWindows64",
+  "totalSizeBytes": 173613684,
+  "buildTimeMs": 28238,
+  "buildStartedAt": "2026-11-11T20:26:22.3327631Z",
+  "buildEndedAt": "2026-11-11T20:26:50.570865Z",
+  "totalWarnings": 0,
+  "totalErrors": 0,
+  "warnings": []
+}

@@ -1,0 +1,1 @@
+{"name":"EasyInteraction.XR.Tests","references":["EasyInteraction.Runtime","EasyInteraction.XR","Unity.XR.Interaction.Toolkit"],"optionalUnityReferences":["TestAssemblies"],"autoReferenced":false}

@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "result": "Succeeded",
+  "platform": "StandaloneWindows64",
+  "totalSizeBytes": 166265093,
+  "buildTimeMs": 14934,
+  "buildStartedAt": "2026-11-11T20:14:14.176222Z",
+  "buildEndedAt": "2026-11-11T20:14:29.1104839Z",
+  "totalWarnings": 2,
+  "totalErrors": 0,
+  "warnings": [
+    {
+      "message": "You are building a player, but you have uncompiled code changes. This means that any post-processing or importing code you may have changed will not affect this player build."
+    },
+    {
+      "message": "warning CS0108: 'MechanicalAction.OnValueChanged' hides inherited member 'InteractionAction.OnValueChanged(InteractionActor, float)'. Use the new keyword if hiding was intended.",
+      "file": "C:\\Users\\LeshaPC\\Games Factory\\Packages\\com.oreethehat.easy-interaction\\Runtime\\MechanicalAction.cs"
+    }
+  ]
+}

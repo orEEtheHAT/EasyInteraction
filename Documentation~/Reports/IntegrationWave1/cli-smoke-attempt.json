@@ -1,0 +1,17 @@
+{
+  "output": null,
+  "diagnostics": [],
+  "success": true,
+  "result": {
+    "selected": true,
+    "available": true,
+    "denial": "",
+    "grabbed": false,
+    "released": true,
+    "door": true,
+    "menuRows": 3,
+    "source": "InteractionInput",
+    "binding": "E | A",
+    "animationStarted": true
+  }
+}

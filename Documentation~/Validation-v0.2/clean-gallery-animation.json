@@ -1,0 +1,11 @@
+{
+  "output": null,
+  "diagnostics": [],
+  "success": true,
+  "result": {
+    "animationEffects": 1,
+    "animationCompleted": true,
+    "firstParticipant": true,
+    "secondParticipant": true
+  }
+}

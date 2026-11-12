@@ -1,0 +1,20 @@
+{
+  "status": "completed",
+  "duration": 0.18,
+  "summary": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "skipped": 0,
+    "inconclusive": 0
+  },
+  "results": [
+    {
+      "FullName": "EasyInteraction.Tests.Integrations.PresentationTests.WarmPresenterSourceResolutionDoesNotAllocate",
+      "Status": "Passed",
+      "Duration": 0.0725299,
+      "Message": null,
+      "StackTrace": null
+    }
+  ]
+}

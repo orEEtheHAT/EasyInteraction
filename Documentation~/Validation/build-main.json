@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "result": "Succeeded",
+  "platform": "StandaloneWindows64",
+  "outputPath": "C:/Users/LeshaPC/Games Factory/Builds/EasyInteraction/InteractionBenchmark.exe",
+  "totalSizeBytes": 172815276,
+  "buildTimeMs": 16897,
+  "totalWarnings": 0,
+  "totalErrors": 0,
+  "errors": [],
+  "warnings": []
+}
